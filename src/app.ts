@@ -10,6 +10,8 @@ app.use(express.json());
 
 app.use('/auth/api', router)
 
+app.use('/chat/api', router)
+
 app.get("/", (req:Request, res:Response) => {
   res.send("AI Chatbot Backend Running...");
 });
