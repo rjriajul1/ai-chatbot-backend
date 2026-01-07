@@ -104,7 +104,7 @@ This approach improves factual accuracy, relevance, and domain alignment.
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/rjriajul1/ai-chatbot-backend
 cd ai-chatbot-backend
 npm install
 
